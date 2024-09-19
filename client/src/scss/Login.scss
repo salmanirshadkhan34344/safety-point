@@ -1,0 +1,21 @@
+.login-main-div {
+  height: 100vh;
+  position: relative !important;
+}
+
+.login-con {
+  align-items: center;
+  height: 100vh;
+  width: 600px;
+  margin: 0 auto !important;
+}
+.login-form input {
+  border-radius: 0px;
+  font-family: 'poppins-light';
+  font-size: 12px;
+}
+.show-hide-btn {
+  position: absolute;
+  top: 25px;
+  right: 5px;
+}

@@ -1,0 +1,16 @@
+.global-loader {
+  position: fixed;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.global-loader div {
+  justify-content: center;
+}
+
+.global-loader-inner {
+  justify-content: center;
+}
